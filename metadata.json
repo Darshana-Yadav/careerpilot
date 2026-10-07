@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "An Agentic AI Career Intelligence & Job Application Assistant that turns your resume and career goals into a personalized, data-driven career action plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
